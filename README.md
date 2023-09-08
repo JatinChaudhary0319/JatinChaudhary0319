@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on WEB DEVELOPMENT.<br>🤝 I’m looking for help with projects.<br>🌱 I’m currently learning Web Development tool.<br>💬 Ask me about Data, ML, DL.<br>⚡ Fun fact that I think  that I know everything.
+🔭 I’m currently working on WEB DEVELOPMENT.<br>🤝 I’m looking for help with projects.<br>🌱 I’m currently learning Web Development tools.<br>💬 Ask me about Data, ML, DL.<br>⚡ Fun fact that I think  that I know everything.
 
 
 ## 🌐 Socials:
