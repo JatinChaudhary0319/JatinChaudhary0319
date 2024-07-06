@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://JatinChaudhary0319.io)
 
 <h1 align="center">Hi 👋, I'm Jatin Chaudhary</h1>
-<h3 align="center">A passionate WEB Developer fresher from India.</h3>
+<h3 align="center">A passionate experienced React developer proficient in HTML, CSS, and JavaScript from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif">
 
 # 💫 About Me:
